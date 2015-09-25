@@ -1,0 +1,6 @@
+include_recipe '../cookbooks/dstat/'
+include_recipe '../cookbooks/zsh/'
+include_recipe '../cookbooks/mysql_client/'
+include_recipe '../cookbooks/htop/'
+include_recipe '../cookbooks/ag/'
+include_recipe '../cookbooks/create_users/'
